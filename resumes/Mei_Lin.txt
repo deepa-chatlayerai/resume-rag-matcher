@@ -1,0 +1,16 @@
+Mei Lin
+Data Engineer
+mei.lin@example.com
+
+SUMMARY
+Data Engineer with 5 years of experience. Specializes in Python, Spark, Airflow.
+
+SKILLS
+Python, Spark, Airflow, SQL, ETL, Kafka, Snowflake
+
+EXPERIENCE
+- Data Engineer, BrightUI (2021-present): delivered projects using Python, Spark, Airflow.
+- Data Engineer, CoreSystems (2019-2021): built systems with SQL, ETL.
+
+EDUCATION
+B.S. Data Engineering, BrightUI University, 2017

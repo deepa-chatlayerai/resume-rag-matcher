@@ -1,0 +1,16 @@
+John Doe
+Junior Backend Engineer
+john.doe@example.com
+
+SUMMARY
+Junior Backend Engineer with 2 years of experience. Specializes in Python, Django, PostgreSQL.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Redis, Celery
+
+EXPERIENCE
+- Junior Backend Engineer, Acme Corp (2024-present): delivered projects using Python, Django, PostgreSQL.
+- Junior Backend Engineer, VisionAI (2022-2024): built systems with REST APIs, Redis.
+
+EDUCATION
+B.S. Computer Science, Acme University, 2020

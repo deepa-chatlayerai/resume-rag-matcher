@@ -1,0 +1,16 @@
+Tariq Aziz
+Junior DevOps Engineer
+tariq.aziz@example.com
+
+SUMMARY
+Junior DevOps Engineer with 2 years of experience. Specializes in AWS, Terraform, Docker.
+
+SKILLS
+AWS, Terraform, Docker, Kubernetes, CI/CD, Ansible
+
+EXPERIENCE
+- Junior DevOps Engineer, Acme Corp (2024-present): delivered projects using AWS, Terraform, Docker.
+- Junior DevOps Engineer, VisionAI (2022-2024): built systems with Kubernetes, CI/CD.
+
+EDUCATION
+B.S. Computer Engineering, Acme University, 2020

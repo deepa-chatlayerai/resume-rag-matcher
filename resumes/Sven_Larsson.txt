@@ -1,0 +1,16 @@
+Sven Larsson
+Junior Mobile Engineer
+sven.larsson@example.com
+
+SUMMARY
+Junior Mobile Engineer with 2 years of experience. Specializes in Swift, Kotlin, iOS.
+
+SKILLS
+Swift, Kotlin, iOS, Android, Mobile, React Native
+
+EXPERIENCE
+- Junior Mobile Engineer, CoreSystems (2024-present): delivered projects using Swift, Kotlin, iOS.
+- Junior Mobile Engineer, DataWorks (2022-2024): built systems with Android, Mobile.
+
+EDUCATION
+B.S. Computer Science, CoreSystems University, 2020

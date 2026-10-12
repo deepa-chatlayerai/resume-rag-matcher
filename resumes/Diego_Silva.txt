@@ -1,0 +1,16 @@
+Diego Silva
+Senior DevOps Engineer
+diego.silva@example.com
+
+SUMMARY
+Senior DevOps Engineer with 9 years of experience. Specializes in AWS, Terraform, Docker.
+
+SKILLS
+AWS, Terraform, Docker, Kubernetes, CI/CD, Ansible, Python, Go
+
+EXPERIENCE
+- Senior DevOps Engineer, DataWorks (2017-present): delivered projects using AWS, Terraform, Docker.
+- DevOps Engineer, BrightUI (2015-2017): built systems with Kubernetes, CI/CD.
+
+EDUCATION
+B.S. Computer Engineering, DataWorks University, 2013

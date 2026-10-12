@@ -1,0 +1,701 @@
+{
+  "resumes": {
+    "John_Doe.txt": {
+      "name": "John Doe",
+      "role": "backend",
+      "title": "Junior Backend Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Redis",
+        "Celery"
+      ],
+      "education": "B.S. Computer Science, Acme University, 2020"
+    },
+    "Jane_Smith.txt": {
+      "name": "Jane Smith",
+      "role": "backend",
+      "title": "Backend Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Redis",
+        "Celery",
+        "gRPC"
+      ],
+      "education": "B.S. Computer Science, Beta University, 2017"
+    },
+    "Raj_Patel.txt": {
+      "name": "Raj Patel",
+      "role": "backend",
+      "title": "Senior Backend Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Redis",
+        "Celery",
+        "gRPC",
+        "Microservices"
+      ],
+      "education": "B.S. Computer Science, DataWorks University, 2013"
+    },
+    "Maria_Garcia.docx": {
+      "name": "Maria Garcia",
+      "role": "ml",
+      "title": "Junior Machine Learning Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "scikit-learn",
+        "NLP",
+        "TensorFlow"
+      ],
+      "education": "B.S. Machine Learning, CloudNine University, 2020"
+    },
+    "Liam_OConnor.pdf": {
+      "name": "Liam O'Connor",
+      "role": "ml",
+      "title": "Machine Learning Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "scikit-learn",
+        "NLP",
+        "TensorFlow",
+        "MLOps"
+      ],
+      "education": "B.S. Machine Learning, ShipFast University, 2017"
+    },
+    "Aisha_Khan.txt": {
+      "name": "Aisha Khan",
+      "role": "ml",
+      "title": "Senior Machine Learning Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "scikit-learn",
+        "NLP",
+        "TensorFlow",
+        "MLOps",
+        "Pandas"
+      ],
+      "education": "B.S. Machine Learning, VisionAI University, 2013"
+    },
+    "Chen_Wei.txt": {
+      "name": "Chen Wei",
+      "role": "data_science",
+      "title": "Junior Data Scientist",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Python",
+        "Statistics",
+        "Pandas",
+        "SQL",
+        "Machine Learning",
+        "R"
+      ],
+      "education": "B.S. Statistics, StreamHub University, 2020"
+    },
+    "Sofia_Rossi.txt": {
+      "name": "Sofia Rossi",
+      "role": "data_science",
+      "title": "Data Scientist",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Python",
+        "Statistics",
+        "Pandas",
+        "SQL",
+        "Machine Learning",
+        "R",
+        "A/B Testing"
+      ],
+      "education": "B.S. Statistics, BrightUI University, 2017"
+    },
+    "David_Mueller.docx": {
+      "name": "David Mueller",
+      "role": "data_science",
+      "title": "Senior Data Scientist",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Python",
+        "Statistics",
+        "Pandas",
+        "SQL",
+        "Machine Learning",
+        "R",
+        "A/B Testing",
+        "Tableau"
+      ],
+      "education": "B.S. Statistics, SafeGuard University, 2013"
+    },
+    "Emma_Wilson.pdf": {
+      "name": "Emma Wilson",
+      "role": "frontend",
+      "title": "Junior Frontend Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Redux"
+      ],
+      "education": "B.S. Computer Science, GrowthLabs University, 2020"
+    },
+    "Omar_Haddad.txt": {
+      "name": "Omar Haddad",
+      "role": "frontend",
+      "title": "Frontend Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Redux",
+        "Next.js"
+      ],
+      "education": "B.S. Computer Science, Nodal University, 2017"
+    },
+    "Nina_Volkov.txt": {
+      "name": "Nina Volkov",
+      "role": "frontend",
+      "title": "Senior Frontend Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Redux",
+        "Next.js",
+        "Accessibility"
+      ],
+      "education": "B.S. Computer Science, PixelLabs University, 2013"
+    },
+    "Carlos_Ruiz.txt": {
+      "name": "Carlos Ruiz",
+      "role": "fullstack",
+      "title": "Junior Full Stack Developer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "GraphQL"
+      ],
+      "education": "B.S. Software Engineering, CoreSystems University, 2020"
+    },
+    "Priya_Nair.docx": {
+      "name": "Priya Nair",
+      "role": "fullstack",
+      "title": "Full Stack Developer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "GraphQL",
+        "Express"
+      ],
+      "education": "B.S. Software Engineering, Quantify University, 2017"
+    },
+    "Yuki_Tanaka.pdf": {
+      "name": "Yuki Tanaka",
+      "role": "fullstack",
+      "title": "Senior Full Stack Developer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "GraphQL",
+        "Express",
+        "AWS"
+      ],
+      "education": "B.S. Software Engineering, NimbusIO University, 2013"
+    },
+    "Tariq_Aziz.txt": {
+      "name": "Tariq Aziz",
+      "role": "devops",
+      "title": "Junior DevOps Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Ansible"
+      ],
+      "education": "B.S. Computer Engineering, Acme University, 2020"
+    },
+    "Lena_Berg.txt": {
+      "name": "Lena Berg",
+      "role": "devops",
+      "title": "DevOps Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Ansible",
+        "Python"
+      ],
+      "education": "B.S. Computer Engineering, Beta University, 2017"
+    },
+    "Diego_Silva.txt": {
+      "name": "Diego Silva",
+      "role": "devops",
+      "title": "Senior DevOps Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Ansible",
+        "Python",
+        "Go"
+      ],
+      "education": "B.S. Computer Engineering, DataWorks University, 2013"
+    },
+    "Fatima_Noor.docx": {
+      "name": "Fatima Noor",
+      "role": "sre",
+      "title": "Junior Site Reliability Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Kubernetes",
+        "Prometheus",
+        "Go",
+        "Python",
+        "Linux",
+        "Grafana"
+      ],
+      "education": "B.S. Computer Science, CloudNine University, 2020"
+    },
+    "Noah_Brown.pdf": {
+      "name": "Noah Brown",
+      "role": "sre",
+      "title": "Site Reliability Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Kubernetes",
+        "Prometheus",
+        "Go",
+        "Python",
+        "Linux",
+        "Grafana",
+        "Terraform"
+      ],
+      "education": "B.S. Computer Science, ShipFast University, 2017"
+    },
+    "Grace_Lee.txt": {
+      "name": "Grace Lee",
+      "role": "sre",
+      "title": "Senior Site Reliability Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Kubernetes",
+        "Prometheus",
+        "Go",
+        "Python",
+        "Linux",
+        "Grafana",
+        "Terraform",
+        "Incident Response"
+      ],
+      "education": "B.S. Computer Science, VisionAI University, 2013"
+    },
+    "Ivan_Petrov.txt": {
+      "name": "Ivan Petrov",
+      "role": "data_eng",
+      "title": "Junior Data Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Python",
+        "Spark",
+        "Airflow",
+        "SQL",
+        "ETL",
+        "Kafka"
+      ],
+      "education": "B.S. Data Engineering, StreamHub University, 2020"
+    },
+    "Mei_Lin.txt": {
+      "name": "Mei Lin",
+      "role": "data_eng",
+      "title": "Data Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Python",
+        "Spark",
+        "Airflow",
+        "SQL",
+        "ETL",
+        "Kafka",
+        "Snowflake"
+      ],
+      "education": "B.S. Data Engineering, BrightUI University, 2017"
+    },
+    "Hassan_Ali.docx": {
+      "name": "Hassan Ali",
+      "role": "data_eng",
+      "title": "Senior Data Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Python",
+        "Spark",
+        "Airflow",
+        "SQL",
+        "ETL",
+        "Kafka",
+        "Snowflake",
+        "dbt"
+      ],
+      "education": "B.S. Data Engineering, SafeGuard University, 2013"
+    },
+    "Zoe_Park.pdf": {
+      "name": "Zoe Park",
+      "role": "security",
+      "title": "Junior Security Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Python",
+        "Threat Modeling",
+        "Penetration Testing",
+        "SIEM",
+        "AWS",
+        "Burp Suite"
+      ],
+      "education": "B.S. Cybersecurity, GrowthLabs University, 2020"
+    },
+    "Arjun_Mehta.txt": {
+      "name": "Arjun Mehta",
+      "role": "security",
+      "title": "Security Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Python",
+        "Threat Modeling",
+        "Penetration Testing",
+        "SIEM",
+        "AWS",
+        "Burp Suite",
+        "Go"
+      ],
+      "education": "B.S. Cybersecurity, Nodal University, 2017"
+    },
+    "Clara_Weiss.txt": {
+      "name": "Clara Weiss",
+      "role": "security",
+      "title": "Senior Security Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Python",
+        "Threat Modeling",
+        "Penetration Testing",
+        "SIEM",
+        "AWS",
+        "Burp Suite",
+        "Go",
+        "Cryptography"
+      ],
+      "education": "B.S. Cybersecurity, PixelLabs University, 2013"
+    },
+    "Sven_Larsson.txt": {
+      "name": "Sven Larsson",
+      "role": "mobile",
+      "title": "Junior Mobile Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Swift",
+        "Kotlin",
+        "iOS",
+        "Android",
+        "Mobile",
+        "React Native"
+      ],
+      "education": "B.S. Computer Science, CoreSystems University, 2020"
+    },
+    "Leila_Saab.docx": {
+      "name": "Leila Saab",
+      "role": "mobile",
+      "title": "Mobile Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Swift",
+        "Kotlin",
+        "iOS",
+        "Android",
+        "Mobile",
+        "React Native",
+        "Flutter"
+      ],
+      "education": "B.S. Computer Science, Quantify University, 2017"
+    },
+    "Marco_Conti.pdf": {
+      "name": "Marco Conti",
+      "role": "mobile",
+      "title": "Senior Mobile Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Swift",
+        "Kotlin",
+        "iOS",
+        "Android",
+        "Mobile",
+        "React Native",
+        "Flutter",
+        "REST APIs"
+      ],
+      "education": "B.S. Computer Science, NimbusIO University, 2013"
+    },
+    "Anya_Ivanova.txt": {
+      "name": "Anya Ivanova",
+      "role": "qa",
+      "title": "Junior QA Automation Engineer",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Python",
+        "Selenium",
+        "Test Automation",
+        "CI/CD",
+        "pytest",
+        "Cypress"
+      ],
+      "education": "B.S. Information Technology, Acme University, 2020"
+    },
+    "Kofi_Mensah.txt": {
+      "name": "Kofi Mensah",
+      "role": "qa",
+      "title": "QA Automation Engineer",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Python",
+        "Selenium",
+        "Test Automation",
+        "CI/CD",
+        "pytest",
+        "Cypress",
+        "Playwright"
+      ],
+      "education": "B.S. Information Technology, Beta University, 2017"
+    },
+    "Hana_Kim.txt": {
+      "name": "Hana Kim",
+      "role": "qa",
+      "title": "Senior QA Automation Engineer",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Python",
+        "Selenium",
+        "Test Automation",
+        "CI/CD",
+        "pytest",
+        "Cypress",
+        "Playwright",
+        "API Testing"
+      ],
+      "education": "B.S. Information Technology, DataWorks University, 2013"
+    },
+    "Pedro_Costa.docx": {
+      "name": "Pedro Costa",
+      "role": "pm",
+      "title": "Junior Product Manager",
+      "seniority": "Junior",
+      "years": 2,
+      "skills": [
+        "Roadmapping",
+        "Analytics",
+        "SQL",
+        "A/B Testing",
+        "Agile",
+        "Figma"
+      ],
+      "education": "B.S. Business Administration, CloudNine University, 2020"
+    },
+    "Sara_Cohen.pdf": {
+      "name": "Sara Cohen",
+      "role": "pm",
+      "title": "Product Manager",
+      "seniority": "Mid",
+      "years": 5,
+      "skills": [
+        "Roadmapping",
+        "Analytics",
+        "SQL",
+        "A/B Testing",
+        "Agile",
+        "Figma",
+        "Stakeholder Management"
+      ],
+      "education": "B.S. Business Administration, ShipFast University, 2017"
+    },
+    "Tom_Fischer.txt": {
+      "name": "Tom Fischer",
+      "role": "pm",
+      "title": "Senior Product Manager",
+      "seniority": "Senior",
+      "years": 9,
+      "skills": [
+        "Roadmapping",
+        "Analytics",
+        "SQL",
+        "A/B Testing",
+        "Agile",
+        "Figma",
+        "Stakeholder Management",
+        "Go-to-Market"
+      ],
+      "education": "B.S. Business Administration, VisionAI University, 2013"
+    }
+  },
+  "jobs": {
+    "jd_ml_engineer": {
+      "id": "jd_ml_engineer",
+      "title": "Senior Machine Learning Engineer",
+      "target_roles": [
+        "ml",
+        "data_science"
+      ],
+      "must_have": [
+        "Python",
+        "Machine Learning"
+      ],
+      "min_years": 5,
+      "text": "We are hiring a Senior Machine Learning Engineer to build and deploy ML models in production. Must have 5+ years of Python and hands-on machine learning experience (PyTorch or TensorFlow), including NLP. Experience with MLOps and large-scale data pipelines is a plus."
+    },
+    "jd_backend_python": {
+      "id": "jd_backend_python",
+      "title": "Backend Engineer (Python)",
+      "target_roles": [
+        "backend",
+        "data_eng"
+      ],
+      "must_have": [
+        "Python",
+        "REST APIs"
+      ],
+      "min_years": 3,
+      "text": "Backend Engineer to build scalable REST APIs and services. Strong Python and relational database (PostgreSQL) skills required, 3+ years. Familiarity with Redis, Docker, and microservices preferred."
+    },
+    "jd_frontend_react": {
+      "id": "jd_frontend_react",
+      "title": "Frontend Engineer (React)",
+      "target_roles": [
+        "frontend",
+        "fullstack"
+      ],
+      "must_have": [
+        "React",
+        "JavaScript"
+      ],
+      "min_years": 3,
+      "text": "Frontend Engineer with strong React and JavaScript/TypeScript skills, 3+ years. You will build accessible, performant UIs. Experience with Next.js and design systems is a plus."
+    },
+    "jd_devops_sre": {
+      "id": "jd_devops_sre",
+      "title": "DevOps / SRE",
+      "target_roles": [
+        "devops",
+        "sre"
+      ],
+      "must_have": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "min_years": 4,
+      "text": "DevOps/SRE to own our cloud infrastructure and reliability. Must have Kubernetes, Terraform, and AWS experience, 4+ years. CI/CD, Prometheus, and incident response experience valued."
+    },
+    "jd_data_engineer": {
+      "id": "jd_data_engineer",
+      "title": "Data Engineer",
+      "target_roles": [
+        "data_eng"
+      ],
+      "must_have": [
+        "Spark",
+        "Airflow",
+        "SQL"
+      ],
+      "min_years": 4,
+      "text": "Data Engineer to build batch and streaming pipelines. Must have Spark, Airflow, and SQL, 4+ years. Kafka, Snowflake, and dbt experience a plus."
+    },
+    "jd_security": {
+      "id": "jd_security",
+      "title": "Security Engineer",
+      "target_roles": [
+        "security"
+      ],
+      "must_have": [
+        "Threat Modeling",
+        "Penetration Testing"
+      ],
+      "min_years": 4,
+      "text": "Security Engineer to lead application security. Must have threat modeling and penetration testing experience, 4+ years. Python and cloud (AWS) security knowledge required."
+    }
+  }
+}

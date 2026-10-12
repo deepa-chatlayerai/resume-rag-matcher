@@ -1,0 +1,16 @@
+Anya Ivanova
+Junior QA Automation Engineer
+anya.ivanova@example.com
+
+SUMMARY
+Junior QA Automation Engineer with 2 years of experience. Specializes in Python, Selenium, Test Automation.
+
+SKILLS
+Python, Selenium, Test Automation, CI/CD, pytest, Cypress
+
+EXPERIENCE
+- Junior QA Automation Engineer, Acme Corp (2024-present): delivered projects using Python, Selenium, Test Automation.
+- Junior QA Automation Engineer, VisionAI (2022-2024): built systems with CI/CD, pytest.
+
+EDUCATION
+B.S. Information Technology, Acme University, 2020

@@ -27,8 +27,8 @@ $PY resume_rag.py stats 2>&1 | grep -v "HF_TOKEN\|Loading weights"
 sleep 2
 
 banner "3) Match: Senior ML Engineer JD (must-have Python+ML, 5+ yrs)"
-echo ">> top 3 matches:"
-$PY job_matcher.py jobs/jd_ml_engineer.txt --must-have "Python,Machine Learning" --min-years 5 --top-k 3 \
+echo ">> structured JSON output (top 2):"
+$PY job_matcher.py jobs/jd_ml_engineer.txt --must-have "Python,Machine Learning" --min-years 5 --top-k 2 \
   2>&1 | grep -v "HF_TOKEN\|Loading weights"
 sleep 2
 

@@ -1,0 +1,16 @@
+Grace Lee
+Senior Site Reliability Engineer
+grace.lee@example.com
+
+SUMMARY
+Senior Site Reliability Engineer with 9 years of experience. Specializes in Kubernetes, Prometheus, Go.
+
+SKILLS
+Kubernetes, Prometheus, Go, Python, Linux, Grafana, Terraform, Incident Response
+
+EXPERIENCE
+- Senior Site Reliability Engineer, VisionAI (2017-present): delivered projects using Kubernetes, Prometheus, Go.
+- Site Reliability Engineer, Nodal (2015-2017): built systems with Python, Linux.
+
+EDUCATION
+B.S. Computer Science, VisionAI University, 2013

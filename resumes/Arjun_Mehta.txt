@@ -1,0 +1,16 @@
+Arjun Mehta
+Security Engineer
+arjun.mehta@example.com
+
+SUMMARY
+Security Engineer with 5 years of experience. Specializes in Python, Threat Modeling, Penetration Testing.
+
+SKILLS
+Python, Threat Modeling, Penetration Testing, SIEM, AWS, Burp Suite, Go
+
+EXPERIENCE
+- Security Engineer, Nodal (2021-present): delivered projects using Python, Threat Modeling, Penetration Testing.
+- Security Engineer, Acme Corp (2019-2021): built systems with SIEM, AWS.
+
+EDUCATION
+B.S. Cybersecurity, Nodal University, 2017

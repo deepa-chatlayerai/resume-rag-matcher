@@ -1,0 +1,16 @@
+Ivan Petrov
+Junior Data Engineer
+ivan.petrov@example.com
+
+SUMMARY
+Junior Data Engineer with 2 years of experience. Specializes in Python, Spark, Airflow.
+
+SKILLS
+Python, Spark, Airflow, SQL, ETL, Kafka
+
+EXPERIENCE
+- Junior Data Engineer, StreamHub (2024-present): delivered projects using Python, Spark, Airflow.
+- Junior Data Engineer, PixelLabs (2022-2024): built systems with SQL, ETL.
+
+EDUCATION
+B.S. Data Engineering, StreamHub University, 2020

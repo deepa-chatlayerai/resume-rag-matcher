@@ -1,0 +1,16 @@
+Jane Smith
+Backend Engineer
+jane.smith@example.com
+
+SUMMARY
+Backend Engineer with 5 years of experience. Specializes in Python, Django, PostgreSQL.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, Redis, Celery, gRPC
+
+EXPERIENCE
+- Backend Engineer, Beta Inc (2021-present): delivered projects using Python, Django, PostgreSQL.
+- Backend Engineer, StreamHub (2019-2021): built systems with REST APIs, Redis.
+
+EDUCATION
+B.S. Computer Science, Beta University, 2017

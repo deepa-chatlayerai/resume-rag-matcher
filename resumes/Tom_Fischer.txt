@@ -1,0 +1,16 @@
+Tom Fischer
+Senior Product Manager
+tom.fischer@example.com
+
+SUMMARY
+Senior Product Manager with 9 years of experience. Specializes in Roadmapping, Analytics, SQL.
+
+SKILLS
+Roadmapping, Analytics, SQL, A/B Testing, Agile, Figma, Stakeholder Management, Go-to-Market
+
+EXPERIENCE
+- Senior Product Manager, VisionAI (2017-present): delivered projects using Roadmapping, Analytics, SQL.
+- Product Manager, Nodal (2015-2017): built systems with A/B Testing, Agile.
+
+EDUCATION
+B.S. Business Administration, VisionAI University, 2013

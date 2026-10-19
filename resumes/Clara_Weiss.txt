@@ -1,0 +1,16 @@
+Clara Weiss
+Senior Security Engineer
+clara.weiss@example.com
+
+SUMMARY
+Senior Security Engineer with 9 years of experience. Specializes in Python, Threat Modeling, Penetration Testing.
+
+SKILLS
+Python, Threat Modeling, Penetration Testing, SIEM, AWS, Burp Suite, Go, Cryptography
+
+EXPERIENCE
+- Senior Security Engineer, PixelLabs (2017-present): delivered projects using Python, Threat Modeling, Penetration Testing.
+- Security Engineer, Beta Inc (2015-2017): built systems with SIEM, AWS.
+
+EDUCATION
+B.S. Cybersecurity, PixelLabs University, 2013

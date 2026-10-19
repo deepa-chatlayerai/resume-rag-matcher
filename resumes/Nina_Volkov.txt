@@ -1,0 +1,16 @@
+Nina Volkov
+Senior Frontend Engineer
+nina.volkov@example.com
+
+SUMMARY
+Senior Frontend Engineer with 9 years of experience. Specializes in JavaScript, React, TypeScript.
+
+SKILLS
+JavaScript, React, TypeScript, CSS, HTML, Redux, Next.js, Accessibility
+
+EXPERIENCE
+- Senior Frontend Engineer, PixelLabs (2017-present): delivered projects using JavaScript, React, TypeScript.
+- Frontend Engineer, Beta Inc (2015-2017): built systems with CSS, HTML.
+
+EDUCATION
+B.S. Computer Science, PixelLabs University, 2013

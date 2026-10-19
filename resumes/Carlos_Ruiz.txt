@@ -1,0 +1,16 @@
+Carlos Ruiz
+Junior Full Stack Developer
+carlos.ruiz@example.com
+
+SUMMARY
+Junior Full Stack Developer with 2 years of experience. Specializes in JavaScript, React, Node.js.
+
+SKILLS
+JavaScript, React, Node.js, TypeScript, MongoDB, GraphQL
+
+EXPERIENCE
+- Junior Full Stack Developer, CoreSystems (2024-present): delivered projects using JavaScript, React, Node.js.
+- Junior Full Stack Developer, DataWorks (2022-2024): built systems with TypeScript, MongoDB.
+
+EDUCATION
+B.S. Software Engineering, CoreSystems University, 2020
